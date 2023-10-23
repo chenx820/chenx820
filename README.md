@@ -1,4 +1,4 @@
-👋 Hi, I’m Chen Huang, a physics major student at Imperial College London. 
+👋 Hi, I’m Chen, a physics major student at Imperial College London. 
 
 👀 I’m interested in Quantum Computing, Quantum Information and Quantum Optics. 
 
