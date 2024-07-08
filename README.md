@@ -9,7 +9,7 @@ I am passionate about exploring the fascinating realms of **Quantum Computing** 
   - **Trapped Ion Systems:**  Previously engaged in research involving the calibration of experimental parameters in trapped ion quantum computers. This work has resulted in three patents:
       - ([CN117371547A](https://patents.google.com/patent/CN117371547A/en?oq=CN117371547A)) Ion trap chip parameter determining method and device, electronic equipment and medium
       - ([CN117454997A](https://patents.google.com/patent/CN117454997A/en?oq=CN117454997A)) Ion trap chip parameter correction method and device, electronic equipment and medium
-      - ([CN117494829A](https://patents.google.com/patent/CN117494829A/en?oq=CN117494829A))Ion trap chip parameter calibration method and device, electronic equipment and medium
+      - ([CN117494829A](https://patents.google.com/patent/CN117494829A/en?oq=CN117494829A)) Ion trap chip parameter calibration method and device, electronic equipment and medium
   - **Rydberg Atom systems**
   - **Semiconductor Qubits**
 
