@@ -18,4 +18,5 @@ I am always on the lookout for new opportunities to expand my knowledge and skil
 
 ## Contact Information
 📮 Academic: [chen.huang23@imperial.ac.uk](mailto:chen.huang23@imperial.ac.uk)
+
 📧 Personal: [physchenhuang@gmail.com](mailto:physchenhuang@gmail.com)
