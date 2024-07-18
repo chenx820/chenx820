@@ -17,5 +17,4 @@ I am passionate about exploring the fascinating realms of **Quantum Computing** 
 I am always on the lookout for new opportunities to expand my knowledge and skills. Whether it’s through collaborative projects, internships, or further academic research, I am eager to connect with like-minded individuals and organizations. If you believe we could collaborate effectively, please do not hesitate to reach out!
 
 ## Contact Information
-- Academic📧 [chen.huang23@imperial.ac.uk](mailto:chen.huang23@imperial.ac.uk)
-- Personal📧 [physchenhuang@gmail.com](mailto:physchenhuang@gmail.com)
+📧 [chen.huang23@imperial.ac.uk](mailto:chen.huang23@imperial.ac.uk)
