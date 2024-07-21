@@ -1,4 +1,4 @@
-| <a href="https://github.com/muisedestiny"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muisedestiny&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chen's github stats" /></a> | <a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muisedestiny&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chen's github stats" /></a> | <a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muisedestiny&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
