@@ -14,7 +14,7 @@ I am passionate about exploring the fascinating realms of **Quantum Computing** 
       - ([CN117454997A](https://patents.google.com/patent/CN117454997A/en?oq=CN117454997A)) Ion trap chip parameter correction method and device, electronic equipment and medium
       - ([CN117494829A](https://patents.google.com/patent/CN117494829A/en?oq=CN117494829A)) Ion trap chip parameter calibration method and device, electronic equipment and medium
   - **Rydberg Atom systems:** Designed and improved compilation strategies, optimizing the compilation procedure, enhancing efficiency and reducing decoherence in Rydberg atom systems.
-  - **Semiconductor Qubits:** Focused on experimental work
+  - **Semiconductor Qubits:** Focused on experimental work. 
  
 ## Goals and Aspirations
 I am always on the lookout for new opportunities to expand my knowledge and skills. Whether it’s through collaborative projects, internships, or further academic research, I am eager to connect with like-minded individuals and organizations. If you believe we could collaborate effectively, please do not hesitate to reach out! 📧
