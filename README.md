@@ -2,7 +2,7 @@
 
 
 ## About Me           
-👋 Hi, I’m Chen, a physics major student at Imperial College London and a research intern at Beijing Academy of Quantum Information Sciences. 
+👋 Hi, I’m Chen, a **physics** major student at Imperial College London and a research intern at Beijing Academy of Quantum Information Sciences. 
 
 I am passionate about exploring the fascinating realms of **Quantum Computing** and **Quantum Information**. My academic journey has equipped me with a solid foundation in physics, and I am enthusiastic about applying this knowledge to cutting-edge research in quantum technologies.
 
