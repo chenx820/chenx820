@@ -1,11 +1,11 @@
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake.svg">
 </picture>
 
 <div align="center">
-  <a href="https://github.com/chenx820" style="display: inline-block; margin-right: 10px;">
+  <a href="https://github.com/chenx820" style="display: inline-block; margin-right: 0px;">
     <img src="https://github-readme-stats.vercel.app/api?username=chenx820&count_private=true&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Chen's github stats" />
   </a>
   <a href="https://github.com/chenx820" style="display: inline-block;">
