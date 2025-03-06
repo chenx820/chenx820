@@ -9,7 +9,6 @@
 
 [![Top Langs](https://github-readme-stats-chenx820s-projects.vercel.app/api/top-langs/?username=chenx820&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## About Me           
 👋 Hi, I’m Chen, a **physics** major student at Imperial College London and a research intern at Beijing Academy of Quantum Information Sciences. 
 
