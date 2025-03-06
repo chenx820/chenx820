@@ -4,14 +4,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <a href="https://github.com/chenx820" style="display: inline-block; margin-right: 0px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=chenx820&count_private=true&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Chen's github stats" />
-  </a>
-  <a href="https://github.com/chenx820" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenx820&count_private=true&theme=transparent&layout=compact&hide_border=true" alt="Chen's top languages" />
-  </a>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&theme=dark&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true" />
+</picture>
 
 
 
