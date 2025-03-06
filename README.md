@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Chen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&bg_color=false&rank_icon=github&hide=prs,issues,contribs&theme=merko#gh-dark-mode-only)](https://github.com/chenx820#gh-dark-mode-only)
+[![Chen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=merko#gh-dark-mode-only)](https://github.com/chenx820#gh-dark-mode-only)
 [![Chen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&bg_color=false&rank_icon=github&hide=prs,issues,contribs&theme=default#gh-light-mode-only)](https://github.com/chenx820#gh-light-mode-only)     
 
 ## About Me             
