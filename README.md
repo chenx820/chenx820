@@ -5,10 +5,15 @@
 </picture>
 
 <div align="center">
-<a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chenx820&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" alt="Chen's github stats" /></a>
+  <a href="https://github.com/chenx820" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=chenx820&count_private=true&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="Chen's github stats" />
+  </a>
+  <a href="https://github.com/chenx820" style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenx820&count_private=true&theme=transparent&layout=compact&hide_border=true" alt="Chen's top languages" />
+  </a>
+</div>
 
-<a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenx820&count_private=true&theme=radical&layout=compact&hide_border=true" /></a>   
-</div>  
+
 
 ## About Me           
 👋 Hi, I’m Chen, a **physics** major student at Imperial College London and a research intern at Beijing Academy of Quantum Information Sciences. 
