@@ -7,18 +7,6 @@
 [![Chen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
 [![Chen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&theme=dark&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs"
-    media="(prefers-color-scheme: dark)"    
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&theme=default&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs"    
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"      
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true" />  
-</picture>
-
 
 
 ## About Me           
