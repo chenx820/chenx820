@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chenx820&label=Profile%20views&color=0e75b6&style=flat" alt="chenx820" /> </p>
 <a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chen's github stats" /></a>  <a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenx820&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 
