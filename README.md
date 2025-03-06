@@ -4,11 +4,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Chen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Chen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
+[![Chen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&bg_color=false&rank_icon=github&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Chen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&bg_color=false&rank_icon=github&hide=prs,issues,contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)     
 
-[![Top Langs-Dark](https://github-readme-stats-beta-sage-23.vercel.app/api/top-langs/?username=chenx820&layout=compact&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
-[![Top Langs-Light](https://github-readme-stats-beta-sage-23.vercel.app/api/top-langs/?username=chenx820&layout=compact&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats-beta-sage-23.vercel.app/api/top-langs/?username=chenx820&layout=compact&bg_color=false&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
+[![Top Langs-Light](https://github-readme-stats-beta-sage-23.vercel.app/api/top-langs/?username=chenx820&layout=compact&bg_color=false&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ## About Me             
