@@ -6,12 +6,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&theme=dark&count_private=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&theme=dark&count_private=true&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  
+    srcset="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&theme=default&count_private=true&hide_border=true"  
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"      
   />
   <img src="https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true" />
 </picture>
