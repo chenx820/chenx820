@@ -7,7 +7,7 @@
 [![Chen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
 [![Chen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenx820)](https://github.com/chenx820/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenx820&layout=compact&hide_border=true)](https://github.com/chenx820/github-readme-stats)
 
 ## About Me           
 👋 Hi, I’m Chen, a **physics** major student at Imperial College London and a research intern at Beijing Academy of Quantum Information Sciences. 
