@@ -4,8 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake.svg">
 </picture>
 
-<a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chenx820&count_private=true&theme=radical&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chen's github stats" /></a>  
-<a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenx820&count_private=true&theme=radical&layout=compact&theme=buefy&hide_border=true" /></a>   
+<a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chenx820&count_private=true&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" alt="Chen's github stats" /></a><a href="https://github.com/chenx820"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenx820&count_private=true&theme=radical&layout=compact&hide_border=true" /></a>   
 
 
 ## About Me           
