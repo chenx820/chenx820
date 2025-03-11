@@ -17,7 +17,5 @@ Click here to explore [Chen's Physics World](https://chenx820.github.io/)!  
 [![Chen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=merko#gh-dark-mode-only)](https://github.com/chenx820#gh-dark-mode-only)
 [![Chen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=false&hide=prs,issues,contribs&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/chenx820#gh-light-mode-only)         
 
-[![WakaTime](https://wakatime.com/share/@fc9aa5ee-a1b7-4fc0-b235-cfde7c80dd6e/ad7ab924-e0ef-42c5-9c93-20a1523cc22a.svg)](https://github.com/chenx820)
-
-
-[![Chen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenx820)](https://github.com/chenx820/github-readme-stats)  
+[![Chen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenx820&theme=merko#gh-dark-mode-only)](https://github.com/chenx820#gh-dark-mode-only)
+[![Chen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenx820&bg_color=false&theme=&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/chenx820#gh-light-mode-only)
