@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Chen</h1>  
+<h3 align="center">A Physics Student in Quantum Computing</h3>
+
+<p>
+I am passionate about exploring the fascinating realms of **Quantum Computing**. My academic journey has equipped me with a solid foundation in physics, and I am enthusiastic about applying this knowledge to cutting-edge research in quantum technologies.
+</p>
+<p>
+Click here to explore [Chen's Physics World](https://chenx820.github.io/)!  
+</p>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake.svg">
@@ -9,15 +19,5 @@
 
 [![WakaTime](https://wakatime.com/share/@fc9aa5ee-a1b7-4fc0-b235-cfde7c80dd6e/ad7ab924-e0ef-42c5-9c93-20a1523cc22a.svg)](https://github.com/chenx820)
 
-## About Me             
-👋 Hi, I’m Chen, a **physics** major student at Imperial College London and a remote research intern at Beijing Academy of Quantum Information Sciences. 
 
-
-
-
-I am passionate about exploring the fascinating realms of **Quantum Computing**. My academic journey has equipped me with a solid foundation in physics, and I am enthusiastic about applying this knowledge to cutting-edge research in quantum technologies.
-
-Click here to explore [Chen's Physics World](https://chenx820.github.io/)!     
-
-
-
+[![Chen's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenx820)](https://github.com/chenx820/github-readme-stats)  
