@@ -8,7 +8,7 @@
 [![Chen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=false&hide=prs,issues,contribs&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/chenx820#gh-light-mode-only)         
 
 ## About Me             
-👋 Hi, I’m Chen, a **physics** major student at Imperial College London and a research intern at Beijing Academy of Quantum Information Sciences. 
+👋 Hi, I’m Chen, a **physics** major student at Imperial College London and a remote research intern at Beijing Academy of Quantum Information Sciences. 
 
 I am passionate about exploring the fascinating realms of **Quantum Computing**. My academic journey has equipped me with a solid foundation in physics, and I am enthusiastic about applying this knowledge to cutting-edge research in quantum technologies.
 
