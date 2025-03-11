@@ -1,16 +1,11 @@
 <h2 align="center">Hi 👋, I'm Chen</h2>  
 <h3 align="center">A Physics Student in Quantum Computing</h3>
 
-<p>
-I am passionate about exploring the fascinating realms of <strong>Quantum Computing</strong>. My academic journey has equipped me with a solid foundation in physics, and I am enthusiastic about applying this knowledge to cutting-edge research in quantum technologies.
 
+I am passionate about exploring the fascinating realms of **Quantum Computing**. My academic journey has equipped me with a solid foundation in physics, and I am enthusiastic about applying this knowledge to cutting-edge research in quantum technologies.
 
-
-
-</p>
-<p>
 Click here to explore [Chen's Physics World](https://chenx820.github.io/)!  
-</p>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake-dark.svg">
