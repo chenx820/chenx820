@@ -7,6 +7,8 @@
 [![Chen's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&hide=prs,issues,contribs&theme=merko#gh-dark-mode-only)](https://github.com/chenx820#gh-dark-mode-only)
 [![Chen's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chenx820&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=false&hide=prs,issues,contribs&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/chenx820#gh-light-mode-only)         
 
+<figure><embed src="https://wakatime.com/share/@fc9aa5ee-a1b7-4fc0-b235-cfde7c80dd6e/ad7ab924-e0ef-42c5-9c93-20a1523cc22a.svg"></embed></figure>
+
 ## About Me             
 👋 Hi, I’m Chen, a **physics** major student at Imperial College London and a remote research intern at Beijing Academy of Quantum Information Sciences. 
 
