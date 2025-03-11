@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chen</h1>  
+<h1 align="center">Hi 👋, I'm Chen</h1>
 <h3 align="center">A Physics Student in Quantum Computing</h3>
-
 
 I am passionate about exploring the fascinating realms of **Quantum Computing**. My academic journey has equipped me with a solid foundation in physics, and I am enthusiastic about applying this knowledge to cutting-edge research in quantum technologies.
 
