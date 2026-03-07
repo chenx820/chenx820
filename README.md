@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hi, I'm Chen</h1>
 <h3 align="center">Physics | CS | Quantum Computing</h3>
 
-I am a PhD student in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK). 
+I am a PhD student in [LIANG Lab](https://www.innovationadvancedlab.com) at The Chinese University of Hong Kong (CUHK). 
 
 Click here to explore [Chen's World](https://chenx820.github.io/)!  
 
-Our lab: [LIANG Lab](https://www.innovationadvancedlab.com)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenx820/chenx820/output/github-contribution-grid-snake-dark.svg">
