@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi, I'm Chen</h1>
 <h3 align="center">Physics | CS | Quantum Computing</h3>
 
-I am a PhD student in [LIANG Lab](https://www.innovationadvancedlab.com) at The Chinese University of Hong Kong (CUHK). 
+MSc in Physics @ Imperial
+PhD student in Computer Science and Engineering @ CUHK [LIANG Lab](https://www.innovationadvancedlab.com)
 
 Click here to explore [Chen's World](https://chenx820.github.io/)!  
 
