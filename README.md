@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Chen</h1>
-<h3 align="center">Physics | CS | Quantum Computing</h3>
+<h3 align="center">Quantum Computing | Neutral-Atom Quantum Compilation | Quantum Computer Architecture</h3>
 
 - MSc in Physics @ Imperial
 - PhD student in Computer Science and Engineering @ CUHK [LIANG Lab](https://www.innovationadvancedlab.com)
+- Chief architect @ [Open-QI](https://open-qi.com/)
 
 Click here to explore [Chen's World](https://chenx820.github.io/)!  
 
