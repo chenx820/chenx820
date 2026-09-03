@@ -3,7 +3,7 @@
 
 - MSc in Physics @ Imperial
 - PhD student in Computer Science and Engineering @ CUHK [LIANG Lab](https://www.innovationadvancedlab.com)
-- Chief Architect @ [Open-QI](https://open-qi.com/)
+- Co-founder @ [Open-QI](https://open-qi.com/)
 
 Click here to explore [Chen's World](https://chenx820.github.io/)!  
 
